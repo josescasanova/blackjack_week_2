@@ -7,8 +7,8 @@ Requirements for the BlackJack game
 5. Define what a player is
 6. Define what a dealer is
 7. Deal cards, 1 player, 1 dealer, 1 player, 1 dealer
-8. Show dealt cards
+8. Show dealt cards (hand)
 9. Define what hit + stay do
 10. Does player hit or stay?
 11. If dealer's cards are less than 17 + less than player then hit, else stay
-12. Compare cards and see who wins
+12. Compare cards and see who winss
