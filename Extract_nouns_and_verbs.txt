@@ -16,11 +16,15 @@ Requirements for the BlackJack game
   add card
   is busted?
 5. Define what a player is
+  include hand
   initialize
   show flop
 6. Define what a dealer is
+  include hand
   initialize
   show flop
+
+  
 7. define the blackjack game
   initialize
   player name
